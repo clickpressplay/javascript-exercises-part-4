@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "01_helloWorld"
+		},
+		{
+			"path": "02_repeatString"
+		},
+		{
+			"path": "03_reverseString"
+		},
+		{
+			"path": "04_removeFromArray"
+		},
+		{
+			"path": "05_sumAll"
+		},
+		{
+			"path": "06_leapYears"
+		},
+		{
+			"path": "07_tempConversion"
+		},
+		{
+			"path": "08_calculator"
+		},
+		{
+			"path": "09_palindromes"
+		},
+		{
+			"path": "10_fibonacci"
+		},
+		{
+			"path": "11_getTheTitles"
+		},
+		{
+			"path": "12_findTheOldest"
+		},
+		{
+			"path": "13_caesar"
+		}
+	],
+	"settings": {}
+}
