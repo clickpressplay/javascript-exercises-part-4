@@ -1,7 +1,7 @@
 // initialize smallest value as new variable
 // initialize largest value as stopping point
 // iterate on smallest value until stopping point is reached
-// test 
+// test git change 
 
 const sumAll = function(x, y) {
     
